@@ -1,0 +1,23 @@
+{
+  "name": "gkape",
+  "version": "1.0.0",
+  "description": "GKApe, an implementation of NFT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekKwok/GKApe.git"
+  },
+  "author": "GeekKwok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeekKwok/GKApe/issues"
+  },
+  "homepage": "https://github.com/GeekKwok/GKApe#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.3"
+  }
+}
