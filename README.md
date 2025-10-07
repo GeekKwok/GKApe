@@ -12,6 +12,6 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 
-There is an implementation of ERC721.
+A smart contract named GKApe(GKAPE) NFT, which is an ERC721 NFT, is included in this project. The contract is deployed to the Sepolia testnet and can be viewed on Etherscan.
 
-[GKApe Sepolia Etherscan](https://sepolia.etherscan.io/address/0x563ef57ca2eC90badFACd88138Ca1CdF5E80c969)
+[GKApe Sepolia Etherscan](https://sepolia.etherscan.io/address/0x65CA3266cDf379FfbcC2246a0aDabF6B3e5FBF73)
